@@ -3,7 +3,9 @@
 I'm a software developer, Bitcoin educator, and co-founder of [Bitcoin Paraguay](https://bitcoinparaguay.org) and [Hacking Lives](https://hackinglives.com). My mission is to help people gain more freedom in their lives, and most of the projects I work on are driven by this mission.
 
 🌍  Digital nomad who ended up living in Paraguay 🇵🇾 most of the year... 😅
+
 ✉️  You can contact me at info@jankotas.com
+
 🌐  You can visit my website at https://jankotas.com
 
 🔗  Nostr: npub1tp6w7td3sjnphrrsd9hacam4pqhudc5ylj6v5g2akcu4cl2pl49smp5hhr
